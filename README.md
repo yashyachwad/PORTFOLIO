@@ -11,10 +11,8 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
   
-
-- **Hosting:**  
-![GitHub Pages](https://img.shields.io/badge/-GitHubPages-181717?style=flat&logo=github&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-
+ **Hosting:**  
+![GitHub Pages](https://img.shields.io/badge/-GitHubPages-181717?style=flat&logo=github&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) 
 ## 💻 Features
 
 - Responsive and mobile-friendly design
