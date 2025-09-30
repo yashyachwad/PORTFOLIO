@@ -8,14 +8,12 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 ---
 ## 🛠️ Technologies Used
  **Frontend:**  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="30"/> React.js,  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" alt="Tailwind CSS" width="30"/> Tailwind CSS,  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30"/> JavaScript
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)   ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+  
 
 - **Hosting:**  
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-pages/github-pages.png" alt="GitHub Pages" width="30"/> GitHub Pages,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Vercel-logo.svg" alt="Vercel" width="50"/> Vercel,  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Netlify_logo.svg" alt="Netlify" width="50"/> Netlify
+![GitHub Pages](https://img.shields.io/badge/-GitHubPages-181717?style=flat&logo=github&logoColor=white)  ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
 ## 💻 Features
 
