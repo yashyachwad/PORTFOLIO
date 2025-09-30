@@ -3,7 +3,6 @@
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experience as a B.Tech CSE student passionate about frontend development and building interactive web experiences.
 ---
 ## 🌐 Live Demo
-
 [Visit my Portfolio](https://portfolio-two-xi-10.vercel.app/)
 ---
 ## 🛠️ Technologies Used
@@ -26,10 +25,14 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 1. Clone the repository:
 
-git clone https://github.com/yashyachwad/portfolio.git
+git clone https://github.com/yashyachwad/portfolio.git 
+
 cd portfolio
+
 npm install
+
 npm run dev
+
 Open http://localhost:5173 in your browser to view the website.
 ---
 📫 Contact Me
@@ -38,7 +41,7 @@ Email: yashyechwad420@gmail.com
 
 LinkedIn: linkedin.com/in/yash-yachwad
 
-GitHub: github.com/yash-yachwad
+GitHub:github.com/yashyachwad
 ---
 ⭐ Contributing
 
